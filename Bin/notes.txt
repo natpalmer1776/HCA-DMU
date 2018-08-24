@@ -1,0 +1,6 @@
+https://live.sysinternals.com/
+
+if (!Test-Path "$Env:tmp\FILENAME.exe")
+{
+	Invoke-WebRequest -Uri "http://live.sysinternals.com/FILENAME.exe" -OutFile "$Env:tmp\FILENAME.exe"
+}

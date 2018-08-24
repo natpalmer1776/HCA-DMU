@@ -1,0 +1,15 @@
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\bin\Debug\Loading Bar.exe.config
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\bin\Debug\Loading Bar.exe
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\bin\Debug\Loading Bar.pdb
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\Loading Bar.csprojAssemblyReference.cache
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\MainWindow.g.cs
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\App.g.cs
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\Loading Bar_MarkupCompile.cache
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\Loading Bar_MarkupCompile.lref
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\MainWindow.baml
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\Loading Bar.g.resources
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\Loading_Bar.Properties.Resources.resources
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\Loading Bar.csproj.GenerateResource.cache
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\Loading Bar.csproj.CoreCompileInputs.cache
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\Loading Bar.exe
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Loading Bar\obj\Debug\Loading Bar.pdb

@@ -1,0 +1,28 @@
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\bin\Debug\Desktop Maintenance Utility.exe.config
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\bin\Debug\Desktop Maintenance Utility.exe
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\bin\Debug\Desktop Maintenance Utility.pdb
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.csprojAssemblyReference.cache
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\App.g.cs
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility_MarkupCompile.cache
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility_MarkupCompile.lref
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.g.resources
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\Desktop_Maintenance_Utility.Properties.Resources.resources
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.csproj.GenerateResource.cache
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.csproj.CoreCompileInputs.cache
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.exe
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.pdb
+C:\Users\FVO7197\source\repos\Desktop Maintenance Utility\Desktop Maintenance Utility\obj\Debug\MainWindow.baml
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\bin\Debug\Desktop Maintenance Utility.exe.config
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\bin\Debug\Desktop Maintenance Utility.exe
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\bin\Debug\Desktop Maintenance Utility.pdb
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.csprojAssemblyReference.cache
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\App.g.cs
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility_MarkupCompile.cache
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility_MarkupCompile.lref
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\MainWindow.baml
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.g.resources
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\Desktop_Maintenance_Utility.Properties.Resources.resources
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.csproj.GenerateResource.cache
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.csproj.CoreCompileInputs.cache
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.exe
+C:\Users\FVO7197\Documents\Local RTD\Projects\Desktop Maintenance Utility\Bin\VSProject\Desktop Maintenance Utility\obj\Debug\Desktop Maintenance Utility.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="ApplyGenProfile.MainWindow"
+        x:Name="wAGP_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ApplyGenProfile"
+        mc:Ignorable="d"
+        WindowStyle="ToolWindow"
+        Title="ApplyGenProfile" Height="311" Width="210" FontSize="10">
+    <Window.Resources>
+        <Style x:Key="header" TargetType="{x:Type GridViewColumnHeader}">
+            <Setter Property="Visibility" Value="Collapsed" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <ListView x:Name="wAGP_ProfileList" HorizontalAlignment="Left" Height="217" VerticalAlignment="Top" Width="184" Margin="5,26,0,0" SelectionMode="Multiple">
+            <ListView.View>
+                <GridView ColumnHeaderContainerStyle="{StaticResource header}">
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox HorizontalAlignment="Left" Height="16" Margin="5,5,0,0" TextWrapping="Wrap" Text="Profile Directory" VerticalAlignment="Top" Width="130"/>
+        <Button Content="Browse" HorizontalAlignment="Left" Margin="140,5,0,0" VerticalAlignment="Top" Width="49" Height="16"/>
+        <Button Content="Apply Profile and Log Off" HorizontalAlignment="Left" Margin="5,248,0,0" VerticalAlignment="Top" Width="184"/>
+    </Grid>
+</Window>
